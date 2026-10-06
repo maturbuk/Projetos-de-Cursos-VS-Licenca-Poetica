@@ -43,6 +43,7 @@ eventos, intervalos e posicionamento de elementos.
 > A personagem julga o desperdício.
 
 [📂 **Ver o código →**](https://github.com/maturbuk/Cronometro-desaforo) · [⏱️ **Cronometrar minha demora →**](https://maturbuk.github.io/Cronometro-desaforo/)
+
 ---
 
 ## 🎓 Créditos e delitos
