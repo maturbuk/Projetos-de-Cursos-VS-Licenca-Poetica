@@ -27,7 +27,7 @@ e arruinei o atendimento.
 
 ---
 
-## ⏱️ Cronômetro da Impaciência
+## ⏱️ Cronômetro do Desaforo
 
 Um cronômetro para iniciar, pausar, zerar e registrar o último tempo.
 Até aí, tudo conforme a aula.
@@ -42,8 +42,7 @@ eventos, intervalos e posicionamento de elementos.
 > O aplicativo mede o tempo.
 > A personagem julga o desperdício.
 
-*Código e demonstração em breve.*
-
+[📂 **Ver o código →**](https://github.com/maturbuk/Cronometro-desaforo) · [⏱️ **Cronometrar minha demora →**](https://maturbuk.github.io/Cronometro-desaforo/)
 ---
 
 ## 🎓 Créditos e delitos
